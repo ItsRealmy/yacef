@@ -1,0 +1,17 @@
+{
+  "name": "yacef",
+  "main": "index.js",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A dead simple package which can quickly load YAML files.",
+  "keywords": ["yaml", "config", "dotenv", "env", ".env", "environment", "variables", "settings", "parser"],
+  "author": "Realmy",
+  "license": "MIT",
+  "dependencies": {
+    "yaml": "^2.4.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ItsRealmy/yacef"
+  }
+}
